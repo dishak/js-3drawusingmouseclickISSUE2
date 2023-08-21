@@ -1,0 +1,22 @@
+
+body
+{
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+}
+
+  #canvas
+  {
+    border: 2px solid blue;
+    height:600px ;
+    width:800px;
+   
+  }
+  div{
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 0 250px;
+  }
